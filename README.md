@@ -17,7 +17,7 @@ This is the first game I've made on unreal engine 5. I did it as a learning-orie
 
 ##### The targets can be broken into pieces
 
-![3](https://github.com/TahaKoyuturk/Target_Destroyer/assets/59308946/112f83e2-5253-42ba-89b8-fc039ce97418)
+![6](https://github.com/TahaKoyuturk/Target_Destroyer/assets/59308946/aff67ed4-63ee-4cd6-8c39-ee163016710e)
 
 ##### When the gun fires, a bullet mark comes out of the tip of the gun and smoke comes out of the muzzle tip.
 
