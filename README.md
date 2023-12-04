@@ -2,9 +2,9 @@
 
 The codes of this project cannot be published because they contain confidentiality.
 
-## The video of the game
+### The video of the game
 
-<p align="left"> 
+<p> 
   <a href="https://youtu.be/pEC9vsVYTLI" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60" height="40"/>
   </a> </p>
   
