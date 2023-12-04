@@ -1,6 +1,6 @@
 # Target_Destroyer
 
-The codes of this project cannot be published because they contain confidentiality.
+This is the first game I've made on unreal engine 5. I did it as a learning-oriented study.
 
 ### The video of the game
 
