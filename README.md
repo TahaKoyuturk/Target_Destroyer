@@ -1,14 +1,27 @@
-# Target Destroyer Unreal Engine 5
+# Target Destroyer
 
-This is the first game I've made on unreal engine 5. I did it as a learning-oriented study.
+## About the Game
 
-### The video of the game
+Welcome to Target Destroyer, an exhilarating FPS game developed using Unreal Engine 5.
 
-<p> 
-  <a href="https://youtu.be/pEC9vsVYTLI" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60" height="40"/>
-  </a> </p>
-  
-## The Screenshots
+In Target Destroyer, you step into the shoes of a skilled marksman armed with a powerful firearm. Your objective is to destroy targets scattered throughout various environments. Take aim, pull the trigger, and watch as the targets explode into satisfying pieces. But beware, you must hit the targets within a certain time limit to progress.
+
+## Key Features
+
+- **Immersive FPS Experience:** Dive into the action-packed world of Target Destroyer as you wield your firearm and take down targets.
+- **Realistic Weapon Mechanics:** Experience realistic weapon handling with muzzle flashes and satisfying firing animations.
+- **Destructible Targets:** Watch as targets shatter into pieces upon impact, adding to the immersive gameplay experience.
+- **Time-Based Challenge:** Test your reflexes and precision by hitting targets within the allotted time limit.
+- **Multiple Environments:** Explore diverse environments filled with challenging targets to destroy.
+
+## Gameplay
+
+- Use the mouse to aim your weapon.
+- Left-click to shoot and destroy targets.
+- Pay attention to the time limit and try to hit as many targets as possible before time runs out.
+
+## Screenshots
+
 ![1](https://github.com/TahaKoyuturk/Target_Destroyer/assets/59308946/a7a36e35-cda5-4d28-b3df-2962201d2789)
 
 ##### The game is about hitting target
@@ -29,6 +42,15 @@ This is the first game I've made on unreal engine 5. I did it as a learning-orie
 
 ##### The game ends when all the targets are hit.
 
+Watch the gameplay on YouTube: 
+<p> 
+  <a href="https://youtu.be/pEC9vsVYTLI" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="60" height="40"/>
+  </a> 
+</p>
+
+## Contact
+
+For any inquiries, suggestions, or feedback, please contact us at [email protected].
 
 
 
